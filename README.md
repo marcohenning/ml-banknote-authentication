@@ -2,7 +2,7 @@
 
 A machine learning model that authenticates banknotes based on the banknote authentication dataset.
 
-Image goes here...
+![Banknotes](https://github.com/user-attachments/assets/e6e761e1-831b-4b4d-8bd3-4a6571e37dce)
 
 ## About
 
@@ -49,7 +49,7 @@ The neural network was trained for 200 epochs with a learning rate of 0.01 using
 +-------+---------------+
 ```
 
-Image goes here...
+![Training](https://github.com/user-attachments/assets/6f6ef2f8-d22f-4ddd-be02-33229751d719)
 
 The model achieved an accuracy of 100% on both the training and the testing set.
 
